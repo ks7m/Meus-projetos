@@ -4,7 +4,6 @@ Este repositório apresenta um site moderno e responsivo para uma barbearia, des
 O projeto foi construído utilizando HTML5, CSS3 (com uso de variáveis no `:root` para uma paleta preta e dourada elegante) e JavaScript para adicionar interações simples à página.  
 O foco do layout é transmitir um visual masculino, sofisticado e profissional, com seções dedicadas a serviços, equipe e agendamento, pensado para ser intuitivo tanto no desktop quanto no mobile.  
 
-![Screenshot do site](screenshot.png)  <!-- Depois você adiciona a imagem aqui -->
 
 ## Tecnologias utilizadas
 
